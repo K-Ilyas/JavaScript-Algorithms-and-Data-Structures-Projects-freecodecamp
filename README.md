@@ -1,5 +1,4 @@
 # JavaScript Algorithms and Data Structures Projects freecodecamp
-<br />
 JavaScript Algorithms and Data Structures Certification Projects Solutions
 <br />
 
